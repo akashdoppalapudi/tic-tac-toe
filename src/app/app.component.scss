@@ -1,0 +1,22 @@
+header {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 10%;
+}
+h1 {
+  font-size: 300%;
+  background-color: #ff3d71;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  width: 606px;
+  text-align: center;
+}
+
+app-board {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
